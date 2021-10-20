@@ -1,0 +1,13 @@
+current directory: /home/khushbu/lighthouse/w9/ar-exercises/vendor/bundle/gems/json-1.8.6/ext/json
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20211012-24362-ye90yv.rb extconf.rb
+creating Makefile
+
+current directory: /home/khushbu/lighthouse/w9/ar-exercises/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/khushbu/lighthouse/w9/ar-exercises/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/khushbu/lighthouse/w9/ar-exercises/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" install

@@ -1,0 +1,15 @@
+current directory: /home/khushbu/lighthouse/w9/ar-exercises/vendor/bundle/gems/json-1.8.6/ext/json
+/usr/share/rvm/rubies/ruby-2.3.5/bin/ruby -I /usr/share/rvm/rubies/ruby-2.3.5/lib/ruby/site_ruby/2.3.0 -r ./siteconf20211012-24632-1ab0qgm.rb extconf.rb
+Ignoring pg-1.2.3 because its extensions are not built. Try: gem pristine pg --version 1.2.3
+Ignoring pg-0.17.1 because its extensions are not built. Try: gem pristine pg --version 0.17.1
+creating Makefile
+
+current directory: /home/khushbu/lighthouse/w9/ar-exercises/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/khushbu/lighthouse/w9/ar-exercises/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/khushbu/lighthouse/w9/ar-exercises/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
